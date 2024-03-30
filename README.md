@@ -4,7 +4,7 @@
 
 🎓I m currently in 2nd year in Aliah Unversity (new-town campus)
 
-✨I have experience in Java , C-language and python
+✨I have experience in Java , C-language and python \n
 ✨Currently i m learning Web-development
 ---
 
