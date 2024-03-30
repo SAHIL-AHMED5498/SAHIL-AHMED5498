@@ -10,7 +10,7 @@
 ---
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sahil-ahmed5498.github.io/Mywebsite1/) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ahmed-5a32b2222/) | [![Youtube](https://img.shields.io/badge/Youtube-1DA1F2?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCrp0RQ4NI09RUI93bkV6V0A)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sahil-ahmed5498.github.io/Mywebsite1/) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ahmed-5a32b2222/) | [![Youtube](https://img.shields.io/badge/Youtube-1DA1F2?style=for-the-badge&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UCrp0RQ4NI09RUI93bkV6V0A)
 
 
 
