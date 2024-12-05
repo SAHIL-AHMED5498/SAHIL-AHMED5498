@@ -2,7 +2,7 @@
 # Hi , I m Sahil Ahmed
 
 
-🎓I m currently in 2nd year in Aliah Unversity (new-town campus)
+🎓I m currently in 3rd year in Aliah Unversity (new-town campus)
 ✨I have experience in Java , C-language and python
 ✨Currently i m learning Web-development
 
