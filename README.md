@@ -1,18 +1,17 @@
 
-# Hi , I m Sahil Ahmed
+# 👋 Hi, I'm Sahil Ahmed  
 
+🎓 **3rd Year CSE Student @ Aliah University (New Town Campus)**  
+💻 **Experienced in:** Java, C, Python  
+🌐 **Currently Learning:** Web Development  
 
-🎓I m currently in 3rd year in Aliah Unversity (new-town campus)
-✨I have experience in Java , C-language and python
-✨Currently i m learning Web-development
-
+🚀 Passionate about coding, problem-solving, and building web applications.  
+📌 Exploring backend development and full-stack technologies.  
 
 ---
 
+### 🌐 Connect with Me  
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://sahil-ahmed5498.github.io/Mywebsite1/) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ahmed-5a32b2222/) | [![Youtube](https://img.shields.io/badge/Youtube-1DA1F2?style=for-the-badge&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UCrp0RQ4NI09RUI93bkV6V0A)
-
-
-
-
-
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://sahil-ahmed5498.github.io/Mywebsite1/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ahmed-5a32b2222/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrp0RQ4NI09RUI93bkV6V0A)  
