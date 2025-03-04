@@ -9,9 +9,8 @@
 📌 Exploring backend development and full-stack technologies.  
 
 ---
-
 ### 🌐 Connect with Me  
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://sahil-ahmed5498.github.io/Mywebsite1/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ahmed-5a32b2222/)  
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://sahil-ahmed5498.github.io/Mywebsite1/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ahmed-5a32b2222/) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrp0RQ4NI09RUI93bkV6V0A)  
