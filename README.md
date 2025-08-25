@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sahil Ahmed  
 
 🎓 **4th Year CSE Student @ Aliah University (New Town Campus)**  
-💻 **Experienced in:** Java, C  
+💻 **Experienced in:** Javascript, C  
 🌐 **Currently Learning:** Web Development  
 
 🚀 Passionate about coding, problem-solving, and building web applications.  
