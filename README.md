@@ -7,6 +7,8 @@
 Passionate about coding, problem-solving, and building web applications.  
 📌 Exploring backend development and full-stack technologies.  
 
+![](https://komarev.com/ghpvc/?username=SAHIL-AHMED5498&label=Runtime:&style=flat-square&color=0e75b6)
+
 ---
 ### Connect with Me  
 
